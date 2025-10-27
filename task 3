@@ -1,0 +1,25 @@
+{
+  "responseId": "9c5f0f82-d4df-4e34-88bc-5803740e6dd2-66377f8e",
+  "queryResult": {
+    "queryText": "hello",
+    "action": "input.welcome",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Hi! How are you doing?",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Hi! How are you doing?"
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/customersupportbot-isbu/agent/intents/d58c7c91-38a7-4d3d-98df-ca526872145b",
+      "displayName": "Default Welcome Intent"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
